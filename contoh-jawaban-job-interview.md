@@ -1,6 +1,6 @@
 ## 1.1 Latar Belakang
 
-bla bla bla
+bla bla blokon
 
 ## 1.2. Deksripsi Teknologi Informasi
 
