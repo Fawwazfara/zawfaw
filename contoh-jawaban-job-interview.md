@@ -40,12 +40,12 @@ Pada pembuatan aplikasi kali ini saya menggunakan beberapa teknologi informasi d
 
 sebagai  |        saya ingin bisa          |                   sehingga                                    | prioritas
 ---------|---------------------------------|---------------------------------------------------------------|---
-pengguna | melihat produk dan daftar harga | bisa menyesuaikan dgn barang yg ingin di beli                 | ⭐⭐⭐⭐⭐
-pengguna | melihat detai produk makanan    | bisa menyesuaikan apabila ada bahan yg tidak ingin di sertakan| ⭐⭐⭐⭐⭐
-pengguna | melihat komentar pembeli lain   | bisa lebih meyakinkan membeli di web saya                     | ⭐⭐⭐⭐⭐
-pengguna | melihat chef yg memasak         | bisa mendapatkan hidangan yg berkualitas                      | ⭐⭐⭐⭐⭐
-pengguna | melihat galery restorant        | bisa melihat hidangan dan penambah selera                     | ⭐⭐⭐⭐⭐
-pengguna | memasukan data diri             | bisa mengantarkan pesanan dgn cepat dan tepat                 | ⭐⭐⭐⭐⭐
+pengguna | bisa memilih lokasi residens    | bisa menyesuaikan dgn barang yg ingin di beli                 | ⭐⭐⭐⭐⭐
+pengguna | melihat denah komplek           | bisa menyesuaikan apabila ada bahan yg tidak ingin di sertakan| ⭐⭐⭐⭐⭐
+pengguna | melihat type rumah & rumahnya   | bisa lebih meyakinkan membeli di web saya                     | ⭐⭐⭐⭐⭐
+pengguna | melihat fasilitas rumah         | bisa mendapatkan hidangan yg berkualitas                      | ⭐⭐⭐⭐⭐
+pengguna | melihat fasilitas di komplek    | bisa melihat hidangan dan penambah selera                     | ⭐⭐⭐⭐⭐
+pengguna | melihat rumah mana saja yg kosong atau tidak| bisa mengantarkan pesanan dgn cepat dan tepat                 | ⭐⭐⭐⭐⭐
 pengguna | memasukan ke dalam keranjang    | bisa memasukan apa saja yg ingin dibeli                       | ⭐⭐⭐⭐
 pengguna | menghapus produk dari keranjang | bisa mengganti dengan produk yg lain                          | ⭐⭐⭐
 pengguna | membeli produk                  | bisa sampai kepada saya                                       | ⭐⭐⭐⭐
