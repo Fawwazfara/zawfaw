@@ -1,31 +1,40 @@
 ## 1.1 Latar Belakang
-
-siapa yg tidak tertarik dgn makanan enak terjangkau dan juga murah. tentu saja makanan yg enak sangat mengunggah selera, makanan yg teramat enak juga menjadi buruan sebagian orang yang sangat mencintai makanan, di era digital ini banyak sekali orang yg menginginkan mengakses semua hal dengan mudah praktis dan simple, agar bisa memudahkan apa saja yg ingin mereka lakukan. karena itu saya membuat web pemesanan makanan agar semua orang bisa mengakses dan membeli makanan dgn mudah tanpa harus keluar rumah panas panasan dan antrian yg sangat panjang hanya cukup dgn bersantai di rumah dan membuka gadget nya untuk memesan makanan dengan mudah kapan pun dimanapun
+selamat datang di web anteiku residensies disini kami menyediakan rumah rumah mewah di komplek anteiku residencies tentu saja pemandangan indah di komplek kami tidak kalah dengan yg lain nya di komplek kami kami menyediakan rumah mewah bertype macam macam kami juga menyediakan taman hiburan untuk anak anak, resto, gym, dan toserba. dengan komplek yg luas dan indah tentu saja tidak akan membuat kita bosan. dengan ini kami membantu anda mendapatkan rumah impian.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
 Pada pembuatan aplikasi kali ini saya menggunakan beberapa teknologi informasi diantaranya :
-1. menggunakan database Mysql untuk menyimpan dan mengelola data makana pembeli dan sebagai nya pada web saya ini
-2. untuk frontend saya baru saja menggunakan html dan css
-3. untuk backend saya belum memakai nya dan kedepan nya saya akan menggunakan backend
-4. untuk desain saya menggunakan figma
-5. untuk tools pembuatan web saya saya menggunakan visual studio code
-6. dan untuk operasi OS saya menggunakan windows
-
+1. untuk database saya menggunakan mongodb kenapa saya menggunakan karana mongodb adalah Basis data NoSQL yang berfokus pada penyimpanan dokumen JSON-style. Cocok untuk pengembangan aplikasi skala besar dan fleksibel. mongodb juga berbasis dokumen kalau mysql berbasis tabel
+2. untuk framework saya menggunakan express js sebagai backend
+3. untuk library saya menggunakan React.js, Mantine, React Query sebagai front-end
+  * react js Fungsi: Library JavaScript untuk membangun antarmuka pengguna (UI) yang bersifat deklaratif dan efisien. Dikembangkan oleh Facebook, React memungkinkan pengembang untuk membuat UI yang dinamis dan mudah dikelola
+  *mantine Fungsi: Library desain komponen untuk React. Mantine menyediakan sejumlah komponen siap pakai dan gaya bawaan, mempercepat pengembangan UI dan memastikan konsistensi desain
+  *react query Fungsi: Library untuk mengelola state data di aplikasi React. React Query membantu Anda mengelola data asinkron, caching, dan menyediakan alat untuk membuat pengembangan aplikasi dengan data dinamis menjadi lebih efisien.
+4. untuk autentikasi email pasword dll saya menggunakan Auth0
+5. dan saya menggunakan object relational mapping (ORM) yaitu menggunakan prisma agar mudah berinteraksi dengan data base.
 ## 1.3. Branding
 
-- nama toko anteiku
-- tagline : "hidangan sederhana dengan kenangan luar biasa"
-- campaign : Mendorong pelanggan untuk mencoba hidangan unik dan lezat di restoran melalui pemesanan online, yang mudah dan juga         
-  terpercaya
+- nama produk anteiku residencies
+- tagline : "wujudkan rumah idaman mu, surga ku adalah rumah ku"
+- campaign :Eksklusifnya Hunian Mewah di anteiku residencies Temukan Rumah Impian Anda!
 -target user :
-  *berusia 15+
-  *seseorang pecinta kuliner
-  *food vloger
+  *Profesional Sukses
+  *Pasangan Muda Profesional
+  *Pensiunan Aktif
+  *Investor Properti
+  *Ekspatriat dan Profesional Asing
+  *Kolektor Properti Mewah
+  *Pembeli yang Menilai Keamanan
 -user experience theme:
-  *sederhana
-  *konten yg menarik dan nyaman di pandang
-  *warna : putih memiliki makna warna yg bersih dan di kombinasikan dengan warna kuning karena warna kuning adalah warna yg terang yang selalu menjadi pusat perhatian bertujuan agar untuk menarik pelanggan
+  *Desain Minimalis dan Bersih
+  *Palet Warna Elegan
+  *Tata Letak Responsif
+  *Visualisasi Properti yang Menggoda
+  *Fasilitas Interaktif
+  *Pengalaman Pendaftaran yang Mulus
+  *Informasi yang Jelas dan Rinci
+  *Sistem Pemilihan Bahasa dan Mata Uang
+
 
 ## 2. User Story
 
