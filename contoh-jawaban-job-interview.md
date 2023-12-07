@@ -50,14 +50,14 @@ pengguna | memboking rumah yg akan di review | bisa memasukan apa saja yg ingin 
 pengguna | membatalkan boking              | bisa mengganti dengan produk yg lain                          | ⭐⭐⭐
 pengguna | memngatur pertemuan                  | bisa sampai kepada saya                                       | ⭐⭐⭐⭐
 pengguna | meng inbox penanggung jawab rumah | bisa memberikan kepercayaan kpd org yng akan membeli produk   | ⭐⭐⭐⭐⭐
-pengguna | mamasukan rumahnya yg akan di jual |                                                             |
-pengguna | bisa login dgn email             |                                                                |   
-pengguna | melihat lokasi rumah            |                                                                |   
-pengguna | mengatur tanggal pertemuan             |                                                                |   
-pengguna | mencari jenis rumah              |                                                                |   
-pengguna | bisa melihat harga             |                                                                |   
-pengguna | melihat fasilitas keamanan             |                                                                |   
-pengguna |              |                                                                |   
+pengguna | mamasukan rumahnya yg akan di jual |                                                             |⭐⭐⭐⭐⭐
+pengguna | bisa login dgn email             |                                                                | ⭐⭐⭐⭐⭐  
+pengguna | melihat lokasi rumah            |                                                                | ⭐⭐⭐⭐⭐  
+pengguna | mengatur tanggal pertemuan             |                                                          |  ⭐⭐⭐⭐⭐ 
+pengguna | mencari jenis rumah              |                                                                | ⭐⭐⭐⭐⭐  
+pengguna | bisa melihat harga             |                                                                |   ⭐⭐⭐⭐⭐
+pengguna | melihat fasilitas keamanan             |                                                                |   ⭐⭐⭐⭐⭐
+pengguna |              |                                                                |   ⭐⭐⭐⭐⭐
 
 
 
