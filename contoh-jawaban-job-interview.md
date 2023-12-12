@@ -7,9 +7,9 @@ Pada pembuatan aplikasi kali ini saya menggunakan beberapa teknologi informasi d
 1. untuk database saya menggunakan mongodb kenapa saya menggunakan karana mongodb adalah Basis data NoSQL yang berfokus pada penyimpanan dokumen JSON-style. Cocok untuk pengembangan aplikasi skala besar dan fleksibel. mongodb juga berbasis dokumen kalau mysql berbasis tabel
 2. untuk framework saya menggunakan express js sebagai backend
 3. untuk library saya menggunakan React.js, Mantine, React Query sebagai front-end
-  * react js Fungsi: Library JavaScript untuk membangun antarmuka pengguna (UI) yang bersifat deklaratif dan efisien. Dikembangkan oleh Facebook, React memungkinkan pengembang untuk membuat UI yang dinamis dan mudah dikelola
-  *mantine Fungsi: Library desain komponen untuk React. Mantine menyediakan sejumlah komponen siap pakai dan gaya bawaan, mempercepat pengembangan UI dan memastikan konsistensi desain
-  *react query Fungsi: Library untuk mengelola state data di aplikasi React. React Query membantu Anda mengelola data asinkron, caching, dan menyediakan alat untuk membuat pengembangan aplikasi dengan data dinamis menjadi lebih efisien.
+ * react js Fungsi: Library JavaScript untuk membangun antarmuka pengguna (UI) yang bersifat deklaratif dan efisien. Dikembangkan oleh Facebook, React memungkinkan pengembang untuk membuat UI yang dinamis dan mudah dikelola
+ *mantine Fungsi: Library desain komponen untuk React. Mantine menyediakan sejumlah komponen siap pakai dan gaya bawaan, mempercepat pengembangan UI dan memastikan konsistensi desain
+ *react query Fungsi: Library untuk mengelola state data di aplikasi React. React Query membantu Anda mengelola data asinkron, caching, dan menyediakan alat untuk membuat pengembangan aplikasi dengan data dinamis menjadi lebih efisien.
 4. untuk autentikasi email pasword dll saya menggunakan Auth0
 5. dan saya menggunakan object relational mapping (ORM) yaitu menggunakan prisma agar mudah berinteraksi dengan data base.
 ## 1.3. Branding
