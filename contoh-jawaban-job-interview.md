@@ -68,11 +68,19 @@ pengguna | melihat updatean            |                                        
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
-```mermaid
-erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
-```
+graph TD
+  subgraph Frontend
+    ReactJS --> Mantine
+    ReactJS --> ReactQuery
+  end
+
+  subgraph Backend
+    NodeJS --> ExpressJS
+    ExpressJS --> Prisma
+    NodeJS --> MongoDB
+    ExpressJS --> Auth0
+  end
+
 
 ## 4. Arsitektur Sistem
 
