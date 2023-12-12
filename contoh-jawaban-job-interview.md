@@ -57,7 +57,8 @@ pengguna | mengatur tanggal pertemuan             |                             
 pengguna | mencari jenis rumah              |                                                                | ⭐⭐⭐⭐⭐  
 pengguna | bisa melihat harga             |                                                                |   ⭐⭐⭐⭐⭐
 pengguna | melihat fasilitas keamanan             |                                                                |   ⭐⭐⭐⭐⭐
-pengguna |              |                                                                |   ⭐⭐⭐⭐⭐
+pengguna | melihat event             |                                                                |   ⭐⭐⭐⭐⭐
+pengguna | melihat updatean            |                                                                |   ⭐⭐⭐⭐⭐
 
 
 
