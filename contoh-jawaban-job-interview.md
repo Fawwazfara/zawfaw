@@ -49,25 +49,26 @@ Deskripsi: Prisma adalah ORM (Object-Relational Mapping) untuk Node.js dan TypeS
 
 sebagai  |        saya ingin bisa          |                   sehingga                                    | prioritas
 ---------|---------------------------------|---------------------------------------------------------------|---
-pengguna | bisa memilih lokasi residens    | bisa menyesuaikan dgn barang yg ingin di beli                 | ⭐⭐⭐⭐⭐
-pengguna | melihat denah komplek           | bisa menyesuaikan apabila ada bahan yg tidak ingin di sertakan| ⭐⭐⭐⭐⭐
-pengguna | melihat type rumah & rumahnya   | bisa lebih meyakinkan membeli di web saya                     | ⭐⭐⭐⭐⭐
-pengguna | melihat fasilitas rumah         | bisa mendapatkan hidangan yg berkualitas                      | ⭐⭐⭐⭐⭐
-pengguna | melihat fasilitas di komplek    | bisa melihat hidangan dan penambah selera                     | ⭐⭐⭐⭐⭐
-pengguna | melihat rumah mana saja yg kosong atau tidak| bisa mengantarkan pesanan dgn cepat dan tepat                 | ⭐⭐⭐⭐⭐
-pengguna | memboking rumah yg akan di review | bisa memasukan apa saja yg ingin dibeli                       | ⭐⭐⭐⭐
-pengguna | membatalkan boking              | bisa mengganti dengan produk yg lain                          | ⭐⭐⭐
-pengguna | memngatur pertemuan                  | bisa sampai kepada saya                                       | ⭐⭐⭐⭐
-pengguna | meng inbox penanggung jawab rumah | bisa memberikan kepercayaan kpd org yng akan membeli produk   | ⭐⭐⭐⭐⭐
-pengguna | mamasukan rumahnya yg akan di jual |                                                             |⭐⭐⭐⭐⭐
-pengguna | bisa login dgn email             |                                                                | ⭐⭐⭐⭐⭐  
-pengguna | melihat lokasi rumah            |                                                                | ⭐⭐⭐⭐⭐  
-pengguna | mengatur tanggal pertemuan             |                                                          |  ⭐⭐⭐⭐⭐ 
-pengguna | mencari jenis rumah              |                                                                | ⭐⭐⭐⭐⭐  
-pengguna | bisa melihat harga             |                                                                |   ⭐⭐⭐⭐⭐
-pengguna | melihat fasilitas keamanan             |                                                                |   ⭐⭐⭐⭐⭐
-pengguna | melihat event             |                                                                |   ⭐⭐⭐⭐⭐
-pengguna | melihat updatean            |                                                                |   ⭐⭐⭐⭐⭐
+pengguna | bisa memilih lokasi residens    | ada 3 cabang yaitu bandung jakarta jogja                | ⭐⭐⭐⭐
+pengguna | melihat denah komplek           | bisa menentukan jalan apabila tidak ingat jalan| ⭐⭐⭐⭐⭐
+pengguna | melihat type rumah & rumahnya   | agar bisa memilih tipe yg di idamkan dan di inginkan          | ⭐⭐⭐⭐
+pengguna | melihat fasilitas rumah         | bisa melihat ada berapa kamar rouftop dll                     | ⭐⭐⭐⭐⭐
+pengguna | melihat fasilitas di komplek    | bisa peri ke gym moll taman dll                   | ⭐⭐⭐⭐⭐
+pengguna | melihat rumah mana saja yg kosong atau tidak| bisa tahu kita punya tetangga atau tidak                 | ⭐⭐⭐
+pengguna | memboking rumah yg akan di review | rumah yg di cari tidak terjual ke org lain                       | ⭐⭐⭐
+pengguna | membatalkan boking              | bisa membatalkan dan memilih type lain                         | ⭐⭐⭐
+pengguna | melihat jadwal pertemuan   yg senggang | bisa sampai kepada saya                                       | ⭐⭐⭐
+pengguna | meng inbox penanggung jawab rumah | agar bisa menentukan jadwal survey   | ⭐⭐⭐⭐⭐
+pengguna | mamasukan rumahnya yg akan di jual | setelah di setujui admin maka bisa di jual                      |⭐⭐⭐
+pengguna | bisa login dgn email             | jiga tidak login hanya bisa melihat lihat saja        | ⭐⭐⭐⭐⭐  
+pengguna | melihat lokasi rumah            |  bisa menentukan lokasi yg enak                                  | ⭐⭐⭐⭐ 
+pengguna | mengatur tanggal pertemuan             |   apabila melebihi maka boking di batalkan              |  ⭐⭐⭐⭐ 
+pengguna | memiliki jasa antar makanan atau tumpangan  |  memesan makanan di resto atau driver        | ⭐⭐⭐⭐  
+pengguna | bisa melihat harga             |   bisa mempertimbangkan beli atau tidak                |   ⭐⭐⭐
+pengguna | memiliki fasilitas keamanan  |  apanila terjadi sesuatu di rumah nyalakan saja bel     |   ⭐⭐⭐⭐⭐⭐
+pengguna | melihat event             | melihat event agustusan kurban dll                         |   ⭐⭐⭐⭐⭐
+pengguna | melihat updatean            |   melihat apa yg baru di bangun atau semua kejadian di komplel    |   ⭐⭐⭐⭐⭐
+pengguna | melihat pengumuman           |   melihat berita berita     |   ⭐⭐⭐⭐⭐
 
 
 
